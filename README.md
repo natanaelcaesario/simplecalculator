@@ -4,7 +4,7 @@
   <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a><a href="https://f-droid.org/packages/com.owncloud.android/">
   <img src="https://f-droid.org/badge/get-it-on.png" height="75"></a>
 
-<img src="kalkulator.jpg" width="350" margin-left="10px"/> 
+<img src="kalkulator.jpg" width="350" style="margin-left:100px"/> 
 
 ## Join development!
 
