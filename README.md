@@ -4,5 +4,6 @@ This simple app created for educational purpose, and to train my skills on java 
 <a href="">
   <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a>
 
-
+<center>
 <img src="kalkulator.jpg" width="350"/> 
+</center>
